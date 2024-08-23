@@ -1,5 +1,3 @@
-Here is a detailed `README.md` for your project:
-
 # Password Manager
 
 ## Description
