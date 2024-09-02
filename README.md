@@ -86,6 +86,6 @@ For any questions or suggestions, please open an issue or contact the repository
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE.txt](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
