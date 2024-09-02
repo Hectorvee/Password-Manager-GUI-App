@@ -67,7 +67,7 @@ Users can search for saved passwords by entering the website name. The applicati
 
 ## Screenshot
 
-Here's a preview of the Weather App:
+Here's a preview of the Password manager App:
 
 ![Application Screenshot](images/img.png)
 
